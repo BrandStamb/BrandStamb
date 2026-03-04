@@ -1,32 +1,30 @@
-# :wave:
-I'm Brandon Stambaugh, a computer science student (as most people are in this site) at Western Tech
- 
- 💼 I am looking for Internship for 2025 -2026
+# Hi, I'm Brandon Stambaugh :wave:
 
-:mailbox_with_mail: Contact: brand.stamb99@gmail.com
+🎓 Computer Science Student at Western Tech
+🔐 Interested in Cybersecurity and development
+💼 Seeking internships for 2025–2026
+📬 brand.stamb99@gmail.com
 
-:building_construction:Ask me about homebrew, cybersecurity, Servers
+---
 
-## :hammer_and_wrench: Current Project
-Currently working on a new music player for windows called Adict🎵
-Linux version will be rolled out soon after development
+## 🛠️ Tech Stack
+**Languages:** Python, C/C++
+**Tools:** Docker, Kubernetes, Linux, VS code
 
-## Tech Stack 
-Languages: Python, C/C++
-Tools: Docker, Notepad++, Kubernetes, Linux
+---
 
+## 🔨 Current Project
+Working on **Adict** 🎵 — a new music player for Windows
+Linux version coming soon after initial release!
 
-<!--
-**BrandStamb/BrandStamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💬 Ask me about
+Homebrew development · Cybersecurity · Servers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrandStamb&show_icons=true&theme=dark)
+
+---
