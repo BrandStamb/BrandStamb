@@ -1,8 +1,11 @@
 # Hi, I'm Brandon Stambaugh :wave:
 
 🎓 Computer Science Student at Western Tech
+
 🔐 Interested in Cybersecurity and development
+
 💼 Seeking internships for 2025–2026
+
 📬 brand.stamb99@gmail.com
 
 ---
