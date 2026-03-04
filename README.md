@@ -12,6 +12,7 @@
 
 ## 🛠️ Tech Stack
 **Languages:** Python, C/C++
+
 **Tools:** Docker, Kubernetes, Linux, VS code
 
 ---
